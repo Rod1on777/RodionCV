@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CVtest/static/css/main.4cff2b65.css",
-    "main.js": "/CVtest/static/js/main.c2aebdcd.js",
-    "static/js/453.1407b060.chunk.js": "/CVtest/static/js/453.1407b060.chunk.js",
-    "static/media/back2.jpg": "/CVtest/static/media/back2.3bcbd391657d7305d319.jpg",
-    "static/media/back1.jpeg": "/CVtest/static/media/back1.ea1f56acb1655634b75f.jpeg",
-    "static/media/uni.jpg": "/CVtest/static/media/uni.01407d7311cbe624b06f.jpg",
-    "index.html": "/CVtest/index.html",
-    "main.4cff2b65.css.map": "/CVtest/static/css/main.4cff2b65.css.map",
-    "main.c2aebdcd.js.map": "/CVtest/static/js/main.c2aebdcd.js.map",
-    "453.1407b060.chunk.js.map": "/CVtest/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/RodionCV/static/css/main.f2ade3fc.css",
+    "main.js": "/RodionCV/static/js/main.5617ccfe.js",
+    "static/js/453.1407b060.chunk.js": "/RodionCV/static/js/453.1407b060.chunk.js",
+    "static/media/back2.jpg": "/RodionCV/static/media/back2.3bcbd391657d7305d319.jpg",
+    "static/media/back1.jpeg": "/RodionCV/static/media/back1.ea1f56acb1655634b75f.jpeg",
+    "static/media/uni.jpg": "/RodionCV/static/media/uni.01407d7311cbe624b06f.jpg",
+    "index.html": "/RodionCV/index.html",
+    "main.f2ade3fc.css.map": "/RodionCV/static/css/main.f2ade3fc.css.map",
+    "main.5617ccfe.js.map": "/RodionCV/static/js/main.5617ccfe.js.map",
+    "453.1407b060.chunk.js.map": "/RodionCV/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cff2b65.css",
-    "static/js/main.c2aebdcd.js"
+    "static/css/main.f2ade3fc.css",
+    "static/js/main.5617ccfe.js"
   ]
 }
