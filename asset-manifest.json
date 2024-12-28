@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RodionCV/static/css/main.f2ade3fc.css",
-    "main.js": "/RodionCV/static/js/main.dc814c7c.js",
+    "main.css": "/RodionCV/static/css/main.166386ae.css",
+    "main.js": "/RodionCV/static/js/main.c0a84ec4.js",
     "static/js/453.1407b060.chunk.js": "/RodionCV/static/js/453.1407b060.chunk.js",
     "static/media/back2.jpg": "/RodionCV/static/media/back2.3bcbd391657d7305d319.jpg",
     "static/media/back1.jpeg": "/RodionCV/static/media/back1.ea1f56acb1655634b75f.jpeg",
     "static/media/uni.jpg": "/RodionCV/static/media/uni.01407d7311cbe624b06f.jpg",
     "index.html": "/RodionCV/index.html",
-    "main.f2ade3fc.css.map": "/RodionCV/static/css/main.f2ade3fc.css.map",
-    "main.dc814c7c.js.map": "/RodionCV/static/js/main.dc814c7c.js.map",
+    "main.166386ae.css.map": "/RodionCV/static/css/main.166386ae.css.map",
+    "main.c0a84ec4.js.map": "/RodionCV/static/js/main.c0a84ec4.js.map",
     "453.1407b060.chunk.js.map": "/RodionCV/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ade3fc.css",
-    "static/js/main.dc814c7c.js"
+    "static/css/main.166386ae.css",
+    "static/js/main.c0a84ec4.js"
   ]
 }
