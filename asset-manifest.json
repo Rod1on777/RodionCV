@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RodionCV/static/css/main.26847866.css",
-    "main.js": "/RodionCV/static/js/main.f268db9b.js",
+    "main.css": "/RodionCV/static/css/main.5f5b3c93.css",
+    "main.js": "/RodionCV/static/js/main.5a091bc5.js",
     "static/js/453.ace21015.chunk.js": "/RodionCV/static/js/453.ace21015.chunk.js",
     "static/media/menu_website2.png": "/RodionCV/static/media/menu_website2.4536fa26ee53184a1da1.png",
     "static/media/menu_website.png": "/RodionCV/static/media/menu_website.f6ec6065034bbae06ac3.png",
@@ -109,12 +109,12 @@
     "index.html": "/RodionCV/index.html",
     "static/media/buttonGreen.svg": "/RodionCV/static/media/buttonGreen.ba8ae67c006e0543651d.svg",
     "static/media/buttonRed.svg": "/RodionCV/static/media/buttonRed.383e9d3f8f4f8af4889d.svg",
-    "main.26847866.css.map": "/RodionCV/static/css/main.26847866.css.map",
-    "main.f268db9b.js.map": "/RodionCV/static/js/main.f268db9b.js.map",
+    "main.5f5b3c93.css.map": "/RodionCV/static/css/main.5f5b3c93.css.map",
+    "main.5a091bc5.js.map": "/RodionCV/static/js/main.5a091bc5.js.map",
     "453.ace21015.chunk.js.map": "/RodionCV/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26847866.css",
-    "static/js/main.f268db9b.js"
+    "static/css/main.5f5b3c93.css",
+    "static/js/main.5a091bc5.js"
   ]
 }
